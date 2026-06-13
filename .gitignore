@@ -1,0 +1,28 @@
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+palm/
+venv/
+env/
+.env
+
+# Database and Vector Store
+app.db
+qdrant_data/
+
+# Uploads
+uploads/
+
+# IDE and System Files
+.vscode/
+.idea/
+.DS_Store
+
+# Temporary Debug/Test Scripts
+test_chat.py
+test_booking.py
+debug_error.py
