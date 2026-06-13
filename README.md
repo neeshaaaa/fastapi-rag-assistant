@@ -39,7 +39,7 @@ To ensure this backend represents industry-standard best practices, the followin
    ```
 3. **Environment Variables**: Create a `.env` file in the root directory and add your Google Gemini API key:
    ```env
-   GEMINI_API_KEY=your_api_key_here
+   GEMINI_API_KEY=my_api_key_here
    ```
 4. **Run the server**:
    ```bash
