@@ -62,4 +62,3 @@ Once the server is running, head over to `http://127.0.0.1:8000/docs` to see the
 * `app/vectorstore/`: Qdrant client initialization and storage logic.
 
 ---
-*Built with ❤️ focusing on clean code and industry standards.*
